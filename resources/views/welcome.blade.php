@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap-datetimepicker.min.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     
-
     <script src="{{ asset('frontend/js/jquery-1.11.2.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('frontend/js/jquery.flexslider.min.js') }}"></script>
     <script type="text/javascript">
